@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cart_fragment">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:id="@+id/cartListView"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="false"
+        android:background="@color/accInfo"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/emptyCart"
+        android:text="Your cart is empty"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="300dp"
+        android:textSize="26sp"
+        android:visibility="invisible"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/layout_shape"
+        android:backgroundTint="@color/accInfoColor">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/actor"
+            android:text="Place Order Here "
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="50dp"
+            android:text="Cart Value "
+            android:textStyle=""
+            android:fontFamily="@font/actor"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:id="@+id/cartVal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/actor"
+            android:text="Rs. 0"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="" />
+
+        <TextView
+            android:id="@+id/taxes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="80dp"
+            android:fontFamily="@font/actor"
+            android:text="Taxes and Charges"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/cartTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="80dp"
+            android:text="Rs. 0"
+            android:fontFamily="@font/actor"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="130dp"
+            android:fontFamily="@font/actor"
+            android:text="Total Cart Value"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/totCV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="310dp"
+            android:layout_marginTop="130dp"
+            android:text="Rs. 0"
+            android:fontFamily="@font/actor"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            />
+
+        <Button
+            android:id="@+id/placeOrder"
+            android:layout_width="150dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="125dp"
+            android:layout_marginTop="180dp"
+            android:background="@drawable/button_shape"
+            android:fontFamily="@font/actor"
+            android:text="Place Order" />
+
+    </RelativeLayout>
+</FrameLayout>

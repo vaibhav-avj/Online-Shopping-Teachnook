@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/button_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2555" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/layout_shape.xml" value="0.193" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/remove_cart.xml" value="0.214" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/splash_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/splash_gradient.xml" value="0.24" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/drawable/user_background.xml" value="0.1" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/activity_home_page.xml" value="0.46647230320699706" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/app_bar_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/cart_layout.xml" value="0.536" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/content_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_acc_info.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_cart.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_sign_out.xml" value="0.1" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/nav_header_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/layout/product_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/menu/home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Vaibhav A/AndroidStudioProjects/OnlineShopping/app/src/main/res/menu/menu_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
